@@ -1,0 +1,3 @@
+2018-07-17 20:09:08.632938 || PIN=0 || POUT=0 || IIN=100 || IOUT=0 || 100 number of Diamond Maida(new item) added
+2018-07-17 20:09:32.126579 || PIN=0 || POUT=0 || IIN=10 || IOUT=0 || 10 number of MAIDA(new item) added
+2018-07-17 20:10:04.309435 || PIN=0 || POUT=0 || IIN=12 || IOUT=0 || 12 number of SUJI (new item) added
